@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ParthAg0703
-- 👀 I’m interested in Cricket
 - 🌱 I’m currently learning C Language
-- 📫 How to reach me Insta:-parthxag0703
 - 😄 Pronouns: He/Him
 
 <!---
